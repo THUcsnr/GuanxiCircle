@@ -1,4 +1,4 @@
-#Classify 3 types of people by G-value#
+#Classify 3 types of people by G-value(5 questions' average G-value)#
 library(igraph)
 print('Please confirm the prefered threshold is 0.3')
 threshold = 0.3
